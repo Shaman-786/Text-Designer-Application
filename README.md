@@ -15,5 +15,5 @@ A GUI application that converts plain text to styled HTML/CSS and can export as 
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/text-designer.git
+git clone https://github.com/Shaman-786/text-designer.git
 cd text-designer
